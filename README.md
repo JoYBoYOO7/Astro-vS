@@ -2,6 +2,8 @@
 
 Modern free Tailwind CSS, Astro landing page template for startups | built with Tailus Themer
 
+Live Demo: https://astro-v-s.vercel.app/ 
+
 ![Tailus vS cover](./public/cover.webp)
 
 ## 🚀 Project Structure
